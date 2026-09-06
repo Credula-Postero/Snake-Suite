@@ -1,6 +1,5 @@
 # README
 
-# README
 
 # Modern Snake Suite (2D & 3D)
 
